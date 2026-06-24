@@ -27,4 +27,4 @@ El desarrollo completo de las tablas, vistas intermedias de transformación y la
 
 ## 👤 Autor
 * **Adrián Poet** - Data Analyst & Business Intelligence Specialisa
-* [LinkedIn](www.linkedin.com/in/adrian-poet) 
+* [LinkedIn](https://www.linkedin.com/in/adrian-poet/)
